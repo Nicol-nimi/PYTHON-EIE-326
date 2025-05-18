@@ -1,0 +1,3 @@
+-The cypher converts the input to capital letter
+-The code shifts the letter by the given value
+-If it's not a letter it reamains the same
