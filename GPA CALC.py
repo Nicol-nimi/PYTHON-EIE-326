@@ -16,7 +16,7 @@ for i in range(6):
         total += possible_grades[grade] * units
         total_units_offered += units
     else:
-        print("Invalid grade entered. Please use A, B, C, D, or F.")
+        print("Invalid grade entered.")
         break
 
 if total > 0:
