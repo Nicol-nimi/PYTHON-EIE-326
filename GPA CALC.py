@@ -8,7 +8,7 @@ possible_grades = {
 total = 0
 total_units_offered= 0
 
-for i in range(2):
+for i in range(6):
     grade = input(f"Grade in course {i+1} (A-F): ").upper()
     units = int(input(f"Units for course {i+1}: "))
 
